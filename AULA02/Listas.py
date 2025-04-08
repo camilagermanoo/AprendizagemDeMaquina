@@ -35,7 +35,7 @@ print ('Removeu um valor específico: ', valores_lista)
 
 #-------------------------------------------------------------------------------#
 
-# Método para REMOVER um valor que está naquele ÍNDICE (posição) e NÃO um NÚMERO: pop
+# Método para REMOVER um valor que está naquele ÍNDICE (posição) e NÃO um NÚMERO: POP
 
 valores_lista.pop(int(input('Digite um índice da lista: ')))
 print ('Removeu uma posição da lista: ', valores_lista)
